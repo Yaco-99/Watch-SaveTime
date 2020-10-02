@@ -26,4 +26,4 @@
 
    ctrl + shift + p, search for "quokka.js:Start on current File"
 
-Google slide : https://docs.google.com/presentation/d/1k9tWIGIZkQksIbavziQrQymtjMagFe3uoQbGSA0D2UY/edit#slide=id.g723630543_3_0
+Google slide : https://docs.google.com/presentation/d/e/2PACX-1vQXdN0vvFw8hpI0F7cRDk6WtqmgaKXAHIfA8dxGnNifiOpas_Id2Xho07EomxxLt2i0s4XED4WO-Zfu/pub?start=false&loop=false&delayms=3000
